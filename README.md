@@ -7,10 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: dinzzz51@gmail.com
 
-## Education:
-
- #### 1. [SMA N 1 Ciasem] | MIPA | Subang `2010-2013`
-
 ---
 
 ### Languages and Tools:
@@ -28,7 +24,6 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
