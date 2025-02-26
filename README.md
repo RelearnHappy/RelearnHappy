@@ -17,7 +17,7 @@
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Express.js" width="30px" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhpg6if7btrwilqkidqbe.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Express.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" style="padding-right:10px; filter: invert(1);" />][webdev]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
