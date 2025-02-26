@@ -11,13 +11,13 @@
 
 ### Languages and Tools:
 
-
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Express.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Express.js" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Flisahjung%2Fbeginner-s-guide-to-building-a-server-with-express-js-29c3&psig=AOvVaw02psmVjzudlvkBV09cXnzt&ust=1740658206353000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDX-Lan4YsDFQAAAAAdAAAAABAE" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
